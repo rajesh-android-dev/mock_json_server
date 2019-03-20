@@ -1,11 +1,30 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "episode_num": "string",
+    "has_show_contract": "string",
+    "image": "string",
+    "network_id": "string",
+    "network_logo_url": "string",
+    "network_name": "string",
+    "product_images": [
+      {
+        "product_url": "string",
+        "product_url_medium": "string",
+        "product_url_thumbnail": "string"
+      }
+    ],
+    "scene_id": "string",
+    "scene_images": [
+      {
+        "scene_url": "string",
+        "scene_url_medium": "string",
+        "scene_url_thumbnail": "string"
+      }
+    ],
+    "scene_num": "string",
+    "season_num": "string",
+    "show_id": "string",
+    "show_name": "string",
+    "show_name_url": "string"
   }
-}
+]
